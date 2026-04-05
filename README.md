@@ -1,4 +1,4 @@
-# lab-arquitetura-computadores-2
+
 # Laboratório de Arquitetura de Computadores 2
 
 ## Sobre o repositório
