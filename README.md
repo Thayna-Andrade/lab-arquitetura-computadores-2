@@ -9,6 +9,7 @@ Contém os códigos-fontes, arquivos PDF com os enunciados e, quando aplicável,
 
 ## Autor
 
-**Seu Nome Completo** - Estudante da disciplina Arquitetura de Computadores 2
+**THAYNÁ ANDRADE** - Estudante da disciplina Arquitetura de Computadores 2
 
 ## Estrutura das pastas
+Cada pasta contém a lista com o nome referente a ela, o pdf de resolução e outros arquivos necessários, como códigos.
